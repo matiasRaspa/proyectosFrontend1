@@ -1,0 +1,45 @@
+body{
+    font-family:'Times New Roman';
+}
+
+header{
+    background-color: #E6E6E6;
+    text-align: center;
+}
+
+main{
+    margin: 100px;
+}
+
+h1{
+    font-size:35px;
+    background-color: #C4C4C4;
+    color:#005677;
+    letter-spacing: 0.50em;
+    word-spacing: 0.25em;
+}
+
+h2{
+    font-size:20px;
+    letter-spacing: 0.30em;
+    background-color: #C4C4C4;
+    color:#005677;
+}
+
+h3{
+    color:#FFFFFf;
+}
+
+span{
+    font-style: italic;
+    font-weight: bold;
+}
+
+dt{
+    font-weight: bold;
+}
+
+footer{
+    text-align: center;
+    background-color: #005677;
+}
